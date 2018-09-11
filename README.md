@@ -6,7 +6,7 @@ Optional Intake assignment Avans Hogeschool Breda
 Create an application where you can keep track of performances by bands and artists. A band or artist has a name and a description. A performance is given on a stage and has a start time and an end time. A stage also has a description.
 With this application you can see which band or artist has a performance on a stage at what time. You can add, modify and delete bands, artists, stages and performances. All information about the occurrence of a band (or artist) can be seen in one screen.
 
-**requirements**
+**Requirements**
 
 *Functional:*
 * CRUD (create, read, update, delete) operations: you can create, read, modify and delete bands / artists, performances and stages.
